@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hlee0995
 - 👀 I’m interested in Machine Learning and NLP
-- 🌱 I’m currently learning Python especially focusing on fundemental basics.
-- 💞️ I’m looking to collaborate on python skills
+- 🌱 I’m currently learning Python & AWS
 - 📫 please reach out to me at hlee0995@gmail.com
