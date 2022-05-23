@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hlee0995
 - 👀 I’m interested in Machine Learning and NLP
-- 🌱 I’m currently learning Python & AWS
+- 🌱 Skills: AWS (AWS Lambda, EC2, Glue, Athena), Python, SQL (POSTGRE SQL, MYSQL)   
 - 📫 please reach out to me at hlee0995@gmail.com
